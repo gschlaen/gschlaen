@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=5BFF33&center=verdadero&vCenter=verdadero&width=500&lines=Flutter+mobile+developer.)](https://git.io/typing-svg)
 
-<a href="#"><img width="100%" height="auto" src="https://www.altiria.com/wp-content/uploads/2021/12/desarrollador-300x261.png"/></a>
+<a href="#"><img src="https://www.altiria.com/wp-content/uploads/2021/12/desarrollador-300x261.png"/></a>
 
 
 ## 🙋‍♂️ About Me
