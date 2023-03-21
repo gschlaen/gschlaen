@@ -15,15 +15,15 @@
 ## 🚀 Languages & Frameworks:
 # Mobile
 <p align="left">
-    <img src="![image](https://user-images.githubusercontent.com/85961518/226702695-5c4e9cb0-7287-4685-84f2-48339fb83933.png)"/>
-    <img src="![image](https://user-images.githubusercontent.com/85961518/226703102-50f47b59-bc65-4bac-94e6-9f34710cbee6.png)"/>
+    <img src="https://user-images.githubusercontent.com/85961518/226702695-5c4e9cb0-7287-4685-84f2-48339fb83933.png"/>
+    <img src="https://user-images.githubusercontent.com/85961518/226703102-50f47b59-bc65-4bac-94e6-9f34710cbee6.png"/>
     <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
     <br/>
 </p>
 
 # Backend
 <p align="left">    
-    <img src="![image](https://user-images.githubusercontent.com/85961518/226705538-61bbee03-c644-4176-a3ab-b625e1d1061d.png)"/>
+    <img src="https://user-images.githubusercontent.com/85961518/226705538-61bbee03-c644-4176-a3ab-b625e1d1061d.png"/>
     <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
 </p>
 
@@ -35,8 +35,8 @@
 
 # Design
 <p align="left">
-    <img alt="Illustrator" src="![image](https://user-images.githubusercontent.com/85961518/226720471-4d685e32-04fa-4d15-9bbf-fc9fc66b2796.png)"></a>
-    <img alt="Photoshop" src="![image](https://user-images.githubusercontent.com/85961518/226720077-70458532-33f5-40fc-94cc-32e27e2b6744.png)"></a>
+    <img alt="Illustrator" src="https://user-images.githubusercontent.com/85961518/226720471-4d685e32-04fa-4d15-9bbf-fc9fc66b2796.png"></a>
+    <img alt="Photoshop" src="https://user-images.githubusercontent.com/85961518/226720077-70458532-33f5-40fc-94cc-32e27e2b6744.png"></a>
 </p>
 
 
