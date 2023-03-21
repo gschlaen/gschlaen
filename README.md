@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I'm a full-stack developer with most of my skills in mobile applications using Flutter.**
+- 🌱 I'm a full-stack developer with most of my skills in mobile applications using Flutter.
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/gschlaen?tab=repositories)**
 
