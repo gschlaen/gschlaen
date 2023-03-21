@@ -1,9 +1,10 @@
+<p align="center">
 ### Hi! I'm Ruben Schlaen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=5BFF33&center=verdadero&vCenter=verdadero&width=500&lines=Flutter+mobile+developer.)](https://git.io/typing-svg)
 
 <a href="#"><img src="https://www.altiria.com/wp-content/uploads/2021/12/desarrollador-300x261.png"/></a>
-
+</p>
 
 ## 🙋‍♂️ About Me
 
